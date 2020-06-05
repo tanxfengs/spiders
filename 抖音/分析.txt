@@ -1,0 +1,15 @@
+import requests
+from requests.utils import cookiejar_from_dict
+
+session = requests.session()
+headers = {
+    "user-agent": "Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36",
+    "x-requested-with": "XMLHttpRequest"
+
+}
+
+
+res = requests.get("http://v1-dy.ixigua.com/cc74c3d6742d425b5bba7b579ba486f3/5eb95ba9/video/tos/cn/tos-cn-ve-15/21857dd49dbf4e0ea14adea769b93edb/?a=2329&br=0&bt=287&cr=3&cs=2&dr=0&ds=6&er=&l=202005112105060100230270201628B64C&lr=all&qs=11&rc=MzUzamR1Z3Q0dDMzOmkzM0ApOmQ1Nzo4Ojw2NzQ1Z2Y7ZWdwMi9lMy9xL2pfLS0zLS9zczNeLTNiLTQxL2EtMmNiYmI6Yw%3D%3D&vl=&vr=&device_platform=android&device_type=sm-j200g&version_code=262&device_id=54520740301&channel=wandoujia1", headers=headers).content
+
+with open("./用筷子.mp4", "wb") as f:
+    f.write(res)

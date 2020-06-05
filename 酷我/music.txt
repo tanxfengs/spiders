@@ -1,0 +1,106 @@
+[*] [许嵩-有何不可] https://win-web-nf01-sycdn.kuwo.cn/8034b0a4a56ca4807bcd562ea6a5c2d4/5eaeb6e0/resource/n3/64/88/986676456.mp3
+	[*] [许嵩-雅俗共赏] https://win-web-rh01-sycdn.kuwo.cn/50f65288c245b37cd0b8af3cd954c656/5eaeb6e0/resource/n3/71/38/1259839516.mp3
+	[*] [许嵩-素颜] https://win-web-ra01-sycdn.kuwo.cn/3e644deaa8f4c52122450b33065bfa9d/5eaeb6e0/resource/n3/128/73/89/2841862368.mp3
+	[*] [许嵩-全世界最好的你] https://el-sycdn.kuwo.cn/0145a9e333007e0484cd6c009bbb1d0a/5eaeb6e1/resource/n2/31/61/2379703773.mp3
+	[*] [许嵩-惊鸿一面] https://win-web-re01-sycdn.kuwo.cn/b4b1f60f4203260440bfa98aac76b576/5eaeb6e1/resource/n3/95/33/3779987666.mp3
+	[*] [许嵩-幻听] https://win-web-nf01-sycdn.kuwo.cn/70823eb2068415255c578621e017806d/5eaeb6e1/resource/n1/25/59/390081070.mp3
+	[*] [许嵩-断桥残雪] https://win-web-ra01-sycdn.kuwo.cn/79e1464a113eed56f7a952cf1ff79175/5eaeb6e1/resource/n3/128/83/15/4173663501.mp3
+	[*] [许嵩-如果当时] https://win-web-ra01-sycdn.kuwo.cn/3aa053f375b552a180f5624df04e4683/5eaeb6e1/resource/n2/128/75/33/1326506021.mp3
+	[*] [许嵩-庐州月] https://win-web-ra01-sycdn.kuwo.cn/574fc0a1acd7b3cdf21cf5eddd446a50/5eaeb6e1/resource/n3/128/5/81/3490874653.mp3
+	[*] [许嵩-你若成风] https://win-web-rh01-sycdn.kuwo.cn/056db2bf88d3d40900a7d9cc019da8ba/5eaeb6e4/resource/n3/93/38/3126964521.mp3
+	[*] [许嵩-玫瑰花的葬礼] https://win-web-re01-sycdn.kuwo.cn/94469fd8b55dfcd31202e14c0de55f10/5eaeb6e5/resource/n3/83/67/2122985522.mp3
+	[*] [许嵩-山水之间] https://win-web-re01-sycdn.kuwo.cn/9d44d0e59c44c6ee5921a138dd5faa86/5eaeb6e5/resource/n3/47/70/3146860518.mp3
+	[*] [许嵩-清明雨上] https://win-web-nf01-sycdn.kuwo.cn/d821ef5416634f2d18c53e0097783d3b/5eaeb6e5/resource/n3/91/34/2717149869.mp3
+	[*] [许嵩-半城烟沙] https://win-web-rd01-sycdn.kuwo.cn/a5c96261ffa13209d6fade7f0b93935f/5eaeb6ea/resource/n2/30/60/3248901051.mp3
+	[*] [许嵩-城府] https://win-web-ra01-sycdn.kuwo.cn/1fb920a9c1e243c8cb62974944ef75fc/5eaeb6eb/resource/n1/128/37/24/1034945636.mp3
+	[*] [许嵩-多余的解释] https://win-web-ra01-sycdn.kuwo.cn/c5ef5a10f85b9ab26d823c337d8dd96e/5eaeb6eb/resource/n1/128/53/96/185017203.mp3
+	[*] [许嵩-雨幕] https://sx-sycdn.kuwo.cn/af1f8e85542c4f17c127f64e16b2cccb/5eaeb6eb/resource/n3/29/94/3537539639.mp3
+	[*] [许嵩-天龙八部之宿敌] https://win-web-ra01-sycdn.kuwo.cn/f313b80e8f37d1144f945b8b81ce9a85/5eaeb6eb/resource/n3/128/38/40/2115920621.mp3
+	[*] [许嵩-灰色头像] https://win-web-ra01-sycdn.kuwo.cn/9259e6a7bb2850263d1d3bf85c534424/5eaeb6ec/resource/n2/128/98/4/3444995644.mp3
+	[*] [许嵩-江湖] https://win-web-rh01-sycdn.kuwo.cn/850a97e738df6ae8da3256053659aa4a/5eaeb6ec/resource/n1/9/23/4246431024.mp3
+	[*] [许嵩-认错] https://win-web-ra01-sycdn.kuwo.cn/8d066396fe7bb2cc7bd28631e6227876/5eaeb6ec/resource/n2/128/42/14/3278431217.mp3
+	[*] [许嵩-千古] https://win-web-rg01-sycdn.kuwo.cn/051f93f0db08e4fbce8b770202211fc7/5eaeb6ec/resource/n1/76/69/2539603307.mp3
+	[*] [许嵩-想象之中] https://win-web-ra01-sycdn.kuwo.cn/9e0ed73081adc6cbcf03f970c24e9bb3/5eaeb6ec/resource/n3/128/3/58/126829761.mp3
+	[*] [许嵩-千百度] https://sy-sycdn.kuwo.cn/e4985a66f0b7226feafe636039dc12e3/5eaeb6ec/resource/n3/53/69/2072040534.mp3
+	[*] [许嵩-燕归巢] https://win-web-rh01-sycdn.kuwo.cn/4f1489dbec5883c85c3b154ed809b3ca/5eaeb6ec/resource/n3/83/88/2421340914.mp3
+	[*] [许嵩-新鸳鸯蝴蝶梦 (2017青年晚报演唱会北京站)] https://ny01-sycdn.kuwo.cn/7c34140ab3c9d295c1c0a65cae8be961/5eaeb6ec/resource/n3/30/56/1334563576.mp3
+	[*] [许嵩-今年勇] https://win-web-ri01-sycdn.kuwo.cn/2e4e48e2dc8b9ad84ab47c964e5eb05d/5eaeb6ed/resource/n1/51/47/4161449317.mp3
+	[*] [许嵩-我乐意] https://no01-sycdn.kuwo.cn/d963ea5ae7b16f51da9be640eb6abed8/5eaeb6ed/resource/n2/52/9/3158978970.mp3
+	[*] [许嵩-绝代风华] https://sf-sycdn.kuwo.cn/1c7168576d36258679cec8ca3bf53038/5eaeb6ed/resource/n3/34/5/1453142749.mp3
+	[*] [许嵩-我想牵着你的手] https://win-web-ra01-sycdn.kuwo.cn/059f398fcc15d26dae57bb1b2f246beb/5eaeb6ed/resource/n2/94/2/1719598938.mp3
+	[*] [缘分一道桥-缘分一道桥] https://win-web-nf01-sycdn.kuwo.cn/b4c6e0d7b0ad5bb90d6ff3a84175c4c0/5eaeb749/resource/n1/45/83/31656365.mp3
+	[*] [缘分一道桥-缘分一道桥(Live)] https://sr-sycdn.kuwo.cn/111d50ceeea7bc386f3ec5b31ea630bb/5eaeb74a/resource/n2/43/51/3013144121.mp3
+	[*] [缘分一道桥-缘分一道桥(Live)] https://win-web-nf01-sycdn.kuwo.cn/320a01ba79aedefeb919d142410ec998/5eaeb74a/resource/n1/30/56/1485359661.mp3
+	[*] [缘分一道桥-缘分一道桥] https://win-web-nf01-sycdn.kuwo.cn/e93b414efd30f456176289eea7d89e28/5eaeb74a/resource/n1/81/83/2293347124.mp3
+	[*] [缘分一道桥-缘分一道桥 (电影长城片尾曲)-铃声版] https://sr-sycdn.kuwo.cn/35811298b01f98bfd8bb1586bbed1a8f/5eaeb74a/resource/n2/83/83/69692941.mp3
+	[*] [缘分一道桥-缘分一道桥(Live)] https://sv-sycdn.kuwo.cn/1759c696390c337f58dd9f588d1ccb61/5eaeb74a/resource/n1/44/16/1939424566.mp3
+	[*] [缘分一道桥-缘分一道桥] https://ee-sycdn.kuwo.cn/4b5c8c6b53dd020a38264f153141952d/5eaeb74a/resource/n1/15/3/309407619.mp3
+	[*] [缘分一道桥-缘分一道桥(Live)] https://win-web-nf01-sycdn.kuwo.cn/8a7abe9c1438300d1bc72d4f1ccc032f/5eaeb74a/resource/n1/3/1/1864792349.mp3
+	[*] [缘分一道桥-缘分一道桥(Live)] https://eh-sycdn.kuwo.cn/3c6695d8271b7e3385521f45cdfb9b08/5eaeb74a/resource/n3/53/66/2754776647.mp3
+	[*] [缘分一道桥-缘分一道桥 (Live)（cover：王力宏、谭维维）] https://sg-sycdn.kuwo.cn/b25dbbf9a8481f1b050810dd0703c0e6/5eaeb74a/resource/n1/86/30/546619729.mp3
+	[*] [缘分一道桥-缘分一道桥(抖音版)] https://sx-sycdn.kuwo.cn/06a02a565d5f7cbeaf138e3d88760c94/5eaeb74b/resource/n3/51/44/516522908.mp3
+	[*] [缘分一道桥-缘分一道桥(Mix)] https://se-sycdn.kuwo.cn/f6232ced58d92893cb8e148ce5e7cd59/5eaeb74b/resource/n2/16/95/491072879.mp3
+	[*] [缘分一道桥-缘分一道桥(美文版)] https://sy-sycdn.kuwo.cn/94ecc3287e139603f58fe9ff0c7491f7/5eaeb74b/resource/n3/75/88/3501742867.mp3
+	[*] [缘分一道桥-缘分一道桥(Remix)] https://ss-sycdn.kuwo.cn/36041a26fd0414b36b618765a42b6715/5eaeb74b/resource/n3/3/55/3637391614.mp3
+	[*] [缘分一道桥-缘分一道桥(抖音版)] https://su-sycdn.kuwo.cn/aeb54329e7de2e8cd05f2090f91fcbb1/5eaeb74b/resource/n2/27/66/804549802.mp3
+	[*] [缘分一道桥-缘分一道桥(抖音版)] https://sv-sycdn.kuwo.cn/d8a99e302f43e6c2c1012558909060d1/5eaeb74b/resource/n2/91/25/2171261659.mp3
+	[*] [缘分一道桥-缘分一道桥] https://sg-sycdn.kuwo.cn/c7f26b94fe7f10134232ee0d1be5dc9e/5eaeb74b/resource/n1/52/22/196349881.mp3
+	[*] [缘分一道桥-缘分一道桥(其他)] https://sf-sycdn.kuwo.cn/1de276173a6a56eb844da340c8001b27/5eaeb74c/resource/n1/80/42/3244775657.mp3
+	[*] [缘分一道桥-缘分一道桥] https://se-sycdn.kuwo.cn/6a6114e816cef64e54b19d74ca2adfcc/5eaeb74c/resource/n3/68/42/1156600617.mp3
+	[*] [缘分一道桥-缘分一道桥] https://st-sycdn.kuwo.cn/6648ecec0e971534ef718d08d99cfe03/5eaeb74c/resource/n3/11/84/1868924353.mp3
+	[*] [缘分一道桥-缘分一道桥] https://sq-sycdn.kuwo.cn/085ed44a6a8e0f7e24b04363678f594b/5eaeb74d/resource/n3/36/5/2743856529.mp3
+	[*] [缘分一道桥-缘分一道桥] https://sg-sycdn.kuwo.cn/19f0efd2031d913b853adffd7b1ec78b/5eaeb74d/resource/n2/99/24/298413589.mp3
+	[*] [缘分一道桥-缘分一道桥] https://sd-sycdn.kuwo.cn/3a76ba76331fc2a6d8b9ed33ff650e24/5eaeb74d/resource/n2/78/63/1511385835.mp3
+	[*] [缘分一道桥-缘分一道桥] https://sg-sycdn.kuwo.cn/7307db685681e9ecfac4b8acfd4ced30/5eaeb74d/resource/n3/29/47/1828194638.mp3
+	[*] [缘分一道桥-缘分一道桥 (小黄人完整版)] https://sd-sycdn.kuwo.cn/245a631ab0259865a2f81fbf0abfb9ab/5eaeb74d/resource/n1/6/67/2649076560.mp3
+	[*] [缘分一道桥-缘分一道桥] https://ss-sycdn.kuwo.cn/8bbfa9a0f823a42ea36fd54d72fff50e/5eaeb74e/resource/n1/27/89/1757384436.mp3
+	[*] [缘分一道桥-缘分一道桥] https://nm01-sycdn.kuwo.cn/13bc75a66fa9034cd29aabeee54616bf/5eaeb74e/resource/n1/98/90/2785643590.mp3
+	[*] [缘分一道桥-缘分一道桥] https://sg-sycdn.kuwo.cn/baa7ce728ae22673b2c1abcfe29eee99/5eaeb74e/resource/n3/10/58/2711294727.mp3
+	[*] [缘分一道桥-缘分一道桥] https://sg-sycdn.kuwo.cn/84f045540192c48b3677bb3a42e22fdb/5eaeb74e/resource/n2/19/17/1910817131.mp3
+	[*] [缘分一道桥-缘分一道桥] https://sg-sycdn.kuwo.cn/249675c1ecbe78583a8e4e814a43a862/5eaeb74e/resource/n2/87/84/1412056693.mp3
+	[*] [爱上别人的人-爱上别人的人] https://win-web-nf01-sycdn.kuwo.cn/e39555488d66be8d7220b890508d9165/5eaeb79c/resource/n3/4/44/651598524.mp3
+	[*] [爱上别人的人-爱上别人的人] https://sw-sycdn.kuwo.cn/b11d8a0cb7ccdc3e1a455018ef7334ea/5eaeb79c/resource/n1/43/44/545867550.mp3
+	[*] [爱上别人的人-爱上别人的人] https://win-web-ra01-sycdn.kuwo.cn/8c9eda09cabc44f4a1fa53640bcec545/5eaeb79d/resource/n2/128/12/14/1861196688.mp3
+	[*] [爱上别人的人-爱上别人的人(网络红歌)] https://win-web-re01-sycdn.kuwo.cn/ea5b7316f4e4110c4e109398ae7af17a/5eaeb79d/resource/n1/3/39/3514908182.mp3
+	[*] [爱上别人的人-爱上别人的人(Aaa 郑源 小黑 2008，Remix)] https://win-web-re01-sycdn.kuwo.cn/f15e11d0d1ead9b3b903c1376537379e/5eaeb79d/resource/n3/91/79/2149131251.mp3
+	[*] [爱上别人的人-爱上别人的人] https://sd-sycdn.kuwo.cn/bed4c78598cc60dac0b4bc297deb2cd5/5eaeb79d/resource/n3/50/80/80536612.mp3
+	[*] [爱上别人的人-爱上别人的人] https://se-sycdn.kuwo.cn/9fdffcdb594b1f135d9c0500447d34b2/5eaeb79d/resource/n2/74/14/3975756507.mp3
+	[*] [爱上别人的人-dj(慢摇)] https://win-web-re01-sycdn.kuwo.cn/c0aa17e46044849e77a2a945b2d60ae0/5eaeb79e/resource/n2/72/39/2659646377.mp3
+	[*] [爱上别人的人-爱上别人的人] https://win-web-rc01-sycdn.kuwo.cn/27c93a9029bea360e8b0f8ed15f88b42/5eaeb79e/resource/n3/53/75/1634527426.mp3
+	[*] [爱上别人的人-爱上别人的人] https://sd-sycdn.kuwo.cn/fbe3f74618068d65137341add1c3da91/5eaeb79e/resource/n3/75/21/2771252316.mp3
+	[*] [爱上别人的人-爱上别人的人(郑)] https://win-web-re01-sycdn.kuwo.cn/24121299faf6766019262c6162a79f3f/5eaeb79e/resource/n1/81/7/3842899468.mp3
+	[*] [爱上别人的人-爱上别人的人] https://sg-sycdn.kuwo.cn/429b72a5ca159601a3647a25017fb0bd/5eaeb79e/resource/n1/86/90/1234581962.mp3
+	[*] [爱上别人的人-爱上别人的人] https://sg-sycdn.kuwo.cn/36eff57cc71ec99ba73086648e635378/5eaeb79f/resource/n3/70/56/2134489701.mp3
+	[*] [爱上别人的人-爱上别人的人] https://sg-sycdn.kuwo.cn/234043aa45a53fafa2176455cec681c2/5eaeb79f/resource/n1/75/40/298168863.mp3
+	[*] [爱上别人的人-爱上别人的人] https://sg-sycdn.kuwo.cn/ec5bdeff01a0cfb2ed6603a047ba5c32/5eaeb79f/resource/n1/33/98/3614145381.mp3
+	[*] [爱上别人的人-爱上别人的人] https://sf-sycdn.kuwo.cn/a06a9a35f06f390fb77f6dd2084cd989/5eaeb79f/resource/n3/20/72/2137231240.mp3
+	[*] [爱上别人的人-爱上别人的人] https://win-web-rc01-sycdn.kuwo.cn/45ee013e6b53a29008bd81fa6ee8101d/5eaeb79f/resource/n3/74/11/1110075771.mp3
+	[*] [爱上别人的人-爱上别人的人(民乐版Club Mix)] https://win-web-rg01-sycdn.kuwo.cn/bce38c1bf257fdd445d1351b533a4e43/5eaeb79f/resource/n3/1/78/2553109773.mp3
+	[*] [爱上别人的人-爱上别人的人] https://nc01-sycdn.kuwo.cn/5c220566ca46eb0d466e786af7749cd6/5eaeb79f/resource/n3/49/76/3863654825.mp3
+	[*] [爱上别人的人-伤(感 网络情歌)] https://win-web-re01-sycdn.kuwo.cn/85a8e150c437c319f4a02c0c08517cde/5eaeb7a0/resource/n1/69/23/4096661327.mp3
+	[*] [爱上别人的人-Dj(加快)] https://win-web-re01-sycdn.kuwo.cn/553087ebcf631ee83cae80a6f307a6c6/5eaeb7a0/resource/n2/34/18/678781008.mp3
+	[*] [爱上别人的人-爱上别人的人] https://se-sycdn.kuwo.cn/08b809fb37e58675caa27f9d68b1b166/5eaeb7a0/resource/n1/72/98/3889029515.mp3
+	[*] [爱上别人的人-爱上别人的人] https://sd-sycdn.kuwo.cn/29b9338ca1f963834f0115f50572f9ff/5eaeb7a0/resource/n2/88/35/1622616387.mp3
+	[*] [爱上别人的人-爱上别人的人] https://win-web-ra01-sycdn.kuwo.cn/0a8670d522237823cdb94c8f6569acdc/5eaeb7a1/resource/n2/128/79/83/2019855168.mp3
+	[*] [爱上别人的人-步行街健身排舞背景音乐] https://win-web-re01-sycdn.kuwo.cn/0a08b7fc65e3b7ab25802a6446f477a4/5eaeb7a1/resource/n3/86/59/1978805399.mp3
+	[*] [爱上别人的人-爱上别人的人] https://se-sycdn.kuwo.cn/a6ae5a213a9bbcb163c686dc8b900249/5eaeb7a1/resource/n1/77/7/1610371395.mp3
+	[*] [爱上别人的人-爱上别人的人] https://se-sycdn.kuwo.cn/f15c024f75a719131078b6b70efb087d/5eaeb7a1/resource/n3/48/25/1462966276.mp3
+	[*] [爱上别人的人-爱上别人的人] https://win-web-rg01-sycdn.kuwo.cn/18e36bb0a4e7d27bc7087d17f81b775a/5eaeb7a1/resource/n1/7/67/133217114.mp3
+	[*] [爱上别人的人-爱上你是一个错(最后一次温柔)] https://win-web-re01-sycdn.kuwo.cn/084a4e3d5f4adb1a1635532389d78f6f/5eaeb7a1/resource/n2/5/92/2754703800.mp3
+	[*] [爱上别人的人-dj(串烧 全中文慢摇 38408)] https://win-web-re01-sycdn.kuwo.cn/0d86dcb44f601566bd5694bd8d7ca841/5eaeb7a1/resource/n3/84/90/445208612.mp3
+	[*] [知否知否-知否知否] https://sp-sycdn.kuwo.cn/427d81780af6eb1c81a34c4ac817413a/5eaebb51/resource/n2/13/38/1951438860.mp3
+	[*] [知否知否-知否知否] https://sp-sycdn.kuwo.cn/427d81780af6eb1c81a34c4ac817413a/5eaebb51/resource/n2/13/38/1951438860.mp3
+	[*] [知否知否-知否知否(Live)] https://ed-sycdn.kuwo.cn/cb1ac55696f194379748ddf83d555ab6/5eaebb51/resource/n2/24/49/3519945027.mp3
+	[*] [知否知否-知否知否(女声版)] https://sp-sycdn.kuwo.cn/f93de9b61dab197f3baf5cc1274c6ddf/5eaebb51/resource/n2/73/22/3110906.mp3
+	[*] [知否知否-知否知否(男声版)] https://sp-sycdn.kuwo.cn/b9f79ccb63bf3e9ba05b8bcd4c744d9c/5eaebb51/resource/n3/91/79/4222118481.mp3
+	[*] [牧马城市-牧马城市] https://win-web-nf01-sycdn.kuwo.cn/81c0db30ebb4bb9cb8836d6f99775273/5eaebb69/resource/n1/7/67/1403021010.mp3
+	[*] [牧马城市-牧马城市 (2018老男孩发布会现场)] https://sb-sycdn.kuwo.cn/99ff4913797551fb02ed26134242d2fd/5eaebb69/resource/n1/79/55/3105029720.mp3
+	[*] [牧马城市-牧马城市] https://se-sycdn.kuwo.cn/ca45d47f86fd4d72d7168c7aff680b29/5eaebb69/resource/n1/21/89/3167486890.mp3
+	[*] [牧马城市-牧马城市 (cover：毛不易)] https://se-sycdn.kuwo.cn/84361d3c9711c14656cf9d93346114b2/5eaebb69/resource/n1/66/45/178471558.mp3
+	[*] [牧马城市-牧马城市] https://win-web-nf01-sycdn.kuwo.cn/512314223823e2dc3524cf1a1459de21/5eaebb69/resource/n2/85/46/440829260.mp3
+	[*] [马蹄莲-马蹄莲] https://rt01-sycdn.kuwo.cn/e3b3d4fc407c8ea095bd595d7676a2cf/5eaebb78/resource/n1/43/43/2651302104.mp3
+	[*] [马蹄莲-马蹄莲] https://np01-sycdn.kuwo.cn/68ada0e34b070d8f6601a36993b9ac52/5eaebb78/resource/n1/93/78/1652230002.mp3
+	[*] [马蹄莲-别了马蹄莲] https://win-web-rg01-sycdn.kuwo.cn/dfa52587d1abf72ac5758767584cccbb/5eaebb78/resource/n1/76/56/3009750271.mp3
+	[*] [马蹄莲-第132集_马蹄莲的鼻子] https://st-sycdn.kuwo.cn/82c36ec7a3543d21c377164b566aa5c9/5eaebb78/resource/n1/3/39/3949832004.mp3
+	[*] [马蹄莲-第004集 马蹄莲] https://se-sycdn.kuwo.cn/306c95af3269018d0a30d5c2c84716d1/5eaebb78/resource/n3/82/55/1541791026.mp3
+	

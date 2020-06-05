@@ -1,0 +1,31 @@
+# 以'#'开始的行，被视为注释.
+
+# 忽略掉所有文件名是 foo.txt的文件.
+
+foo.txt
+
+# 忽略所有生成的 html文件,
+
+*.html
+表情包/*.gif
+表情包/*.jpg
+test/
+x东app/
+node_modules/
+kafkaDemo/
+*.json
+/node_modules
+
+# foo.html是手工维护的，所以例外.
+
+!foo.html
+
+# 忽略所有.o和 .a文件.
+
+/腾讯滑块/node_modules/
+/极验滑块/
+/异步爬虫/
+/DES.py
+/天安保险/node_modules/
+/C_utils/
+/易盾/
