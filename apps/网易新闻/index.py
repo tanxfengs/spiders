@@ -3,12 +3,6 @@
 # @File    : index.py.py
 # @Software: PyCharm
 
-# @Time    : 2020/3/29 14:30
-# @Author  : LavÖz
-# @File    : 京东.py
-# @Software: PyCharm
-import random
-
 import frida, sys
 
 with open("./index.js", "r", encoding="utf8") as f:
