@@ -1,0 +1,71 @@
+GET /api/v1/app/search/ice/search/list?hideAddProduct=0&title=yeezy%20350%20v2
+&sortMode=0&typeId=0&sortType=0&catId=0&showHot=1&page=0&limit=20
+&newSign=833e9228f3c024d30ca704c763c98b4e HTTP/1.1
+duuuid: 54559570579cd282
+duimei: 54559570579cd282
+shumengid: DuBSDa25SP+6ScQyg4Emgnq4ogcAWE+1F8W1Zi+rF0uhmXnChSqDCoDl7QSjOXKrf3rpxq2OpjXmaxePp7qMl+Xw
+duplatform: android
+appId: duapp
+duchannel: testFlight
+duv: 4.38.1
+duloginToken:
+dudeviceTrait: sm-j200g
+timestamp: 1589326168263
+shumeiid: 20200512212627ffa71bf8f8e390293aac3884566e550e01865792dd51979e
+oaid:
+User-Agent: duapp/4.38.1(android;5.1.1)
+X-Auth-Token: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiI1NDU1OTU3MDU3OWNkMjgyIiwic3ViIjoiNTQ1NTk1NzA1NzljZDI4MiIsImlhdCI6MTU4OTMyNTcwMywiZXhwIjoxNjIwODYxNzAzLCJ1dWlkIjoiNTQ1NTk1NzA1NzljZDI4MiIsInVzZXJJZCI6MTc1NTY3NTA2LCJ1c2VyTmFtZSI6Ilx1NmI2M1x1NzZmNFx1OWVkMVx1OWVjNFx1ODExYVx1OGRiZXVEZiIsImlzR3Vlc3QiOnRydWV9.nV9JkQENYd23mIaMuRCPDvjx7v2avt1ve0a90hFtrRTfyLWG-UG_3iwcD2JOW7ebZbUnTgVwTrQQrfy4a80SGCDflyMk3V4IGlTj_M-ks1eIVfuSrTlC8VfrytpXNFIWTC88SX6DWgUhVS0yHtLhnaMtg-t-QUWI8v2VDlQnlmAbTZfn06qR2FbyrMwJniE905CK76aOxXfddOtuWJwzp2iuWoaKvwmpYs5-z7zvuoUZss-QA0sWiccoUDM6xjbFRlzVZo1607JykT2FTp_Vunvay9ru-jtyC8FPOT_46XTjm_SJdvQTJ8aV3QfnoqFizranhwPAuoYir3PkfHstZg
+isRoot: 0
+emu: 1
+isProxy: 0
+Host: app.poizon.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+=========================================
+GET /sns/v2/tag/spu-content-list?productId=65482&showType=0&source=0&lastId=&limit=9
+&newSign=bd01a3b7616aee606153d3b77460ec90 HTTP/1.1
+duuuid: 54559570579cd282
+duimei: 54559570579cd282
+shumengid: DuBSDa25SP+6ScQyg4Emgnq4ogcAWE+1F8W1Zi+rF0uhmXnChSqDCoDl7QSjOXKrf3rpxq2OpjXmaxePp7qMl+Xw
+duplatform: android
+appId: duapp
+duchannel: testFlight
+duv: 4.38.1
+duloginToken:
+dudeviceTrait: sm-j200g
+timestamp: 1589344337057
+shumeiid: 20200512212627ffa71bf8f8e390293aac3884566e550e01865792dd51979e
+oaid:
+User-Agent: duapp/4.38.1(android;5.1.1)
+X-Auth-Token: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiI1NDU1OTU3MDU3OWNkMjgyIiwic3ViIjoiNTQ1NTk1NzA1NzljZDI4MiIsImlhdCI6MTU4OTM0MTcwNCwiZXhwIjoxNjIwODc3NzA0LCJ1dWlkIjoiNTQ1NTk1NzA1NzljZDI4MiIsInVzZXJJZCI6MTc1NTY3NTA2LCJ1c2VyTmFtZSI6Ilx1NmI2M1x1NzZmNFx1OWVkMVx1OWVjNFx1ODExYVx1OGRiZXVEZiIsImlzR3Vlc3QiOnRydWV9.mwVgTr-JcEnwIMignZsI02msYjilg5Xcsf-9P0OUaGo2jxTv9Gw2bUKfimkPRbJExqA9xGkGo3ffP81B2sj7lHdwBHVDrkD_SgSLLUm0KnfBd-OwIjgprHg98DJC_xRLg-1hM_NdZG-mjOxO5l6YpkCfiITd6L8G5JXDJUi1mERratPyMMpKLGiZR2Hw1Ywss5eH2Glk5wdP_VglmMCpWHnu8LB5OZr3cv6NpjtUyXh18_8BvJEkgmPQXdDwmYF5zRADPYpCsGexNZwKBTu3CNyjIGZ73bXjN5fZYo8DRPS95LFLcoAxL-lrHU9CZEeTGy2UsYd_ghbU3RPxKVtSQw
+isRoot: 0
+emu: 1
+isProxy: 1
+Host: m.poizon.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+=========================
+GET /sns/v2/tag/spu-content-list?productId=78848&showType=0&source=0&lastId=&limit=9&newSign=8e83a58adb627e4939ee343167090a62 HTTP/1.1
+duuuid: 54559570579cd282
+duimei: 54559570579cd282
+shumengid: DuBSDa25SP+6ScQyg4Emgnq4ogcAWE+1F8W1Zi+rF0uhmXnChSqDCoDl7QSjOXKrf3rpxq2OpjXmaxePp7qMl+Xw
+duplatform: android
+appId: duapp
+duchannel: testFlight
+duv: 4.38.1
+duloginToken:
+dudeviceTrait: sm-j200g
+timestamp: 1589345650618
+shumeiid: 20200512212627ffa71bf8f8e390293aac3884566e550e01865792dd51979e
+oaid:
+User-Agent: duapp/4.38.1(android;5.1.1)
+X-Auth-Token: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiI1NDU1OTU3MDU3OWNkMjgyIiwic3ViIjoiNTQ1NTk1NzA1NzljZDI4MiIsImlhdCI6MTU4OTM0MTcwNCwiZXhwIjoxNjIwODc3NzA0LCJ1dWlkIjoiNTQ1NTk1NzA1NzljZDI4MiIsInVzZXJJZCI6MTc1NTY3NTA2LCJ1c2VyTmFtZSI6Ilx1NmI2M1x1NzZmNFx1OWVkMVx1OWVjNFx1ODExYVx1OGRiZXVEZiIsImlzR3Vlc3QiOnRydWV9.mwVgTr-JcEnwIMignZsI02msYjilg5Xcsf-9P0OUaGo2jxTv9Gw2bUKfimkPRbJExqA9xGkGo3ffP81B2sj7lHdwBHVDrkD_SgSLLUm0KnfBd-OwIjgprHg98DJC_xRLg-1hM_NdZG-mjOxO5l6YpkCfiITd6L8G5JXDJUi1mERratPyMMpKLGiZR2Hw1Ywss5eH2Glk5wdP_VglmMCpWHnu8LB5OZr3cv6NpjtUyXh18_8BvJEkgmPQXdDwmYF5zRADPYpCsGexNZwKBTu3CNyjIGZ73bXjN5fZYo8DRPS95LFLcoAxL-lrHU9CZEeTGy2UsYd_ghbU3RPxKVtSQw
+isRoot: 0
+emu: 1
+isProxy: 1
+Host: m.poizon.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+

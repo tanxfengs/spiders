@@ -1,0 +1,34 @@
+GET /gw/mtop.taobao.detail.getdetail/6.0/?data=%7B%22detail_v%22%3A%223.3.2%22%2C%22exParams%22%3A%22%7B%5C%22NAV_START_ACTIVITY_TIME%5C%22%3A%5C%221589216608984%5C%22%2C%5C%22NAV_TO_URL_START_TIME%5C%22%3A%5C%221589216608962%5C%22%2C%5C%22action%5C%22%3A%5C%22ipv%5C%22%2C%5C%22ad_type%5C%22%3A%5C%221.0%5C%22%2C%5C%22appReqFrom%5C%22%3A%5C%22detail%5C%22%2C%5C%22clientCachedTemplateKeys%5C%22%3A%5C%22%5B%5D%5C%22%2C%5C%22container_type%5C%22%3A%5C%22xdetail%5C%22%2C%5C%22countryCode%5C%22%3A%5C%22CN%5C%22%2C%5C%22cpuCore%5C%22%3A%5C%224%5C%22%2C%5C%22cpuMaxHz%5C%22%3A%5C%222465600%5C%22%2C%5C%22dinamic_v3%5C%22%3A%5C%22true%5C%22%2C%5C%22from%5C%22%3A%5C%22search%5C%22%2C%5C%22id%5C%22%3A%5C%22616100703705%5C%22%2C%5C%22item_id%5C%22%3A%5C%22616100703705%5C%22%2C%5C%22latitude%5C%22%3A%5C%2239.916295%5C%22%2C%5C%22list_type%5C%22%3A%5C%22search%5C%22%2C%5C%22longitude%5C%22%3A%5C%22116.410344%5C%22%2C%5C%22osVersion%5C%22%3A%5C%2222%5C%22%2C%5C%22phoneType%5C%22%3A%5C%22sm-j200g%5C%22%2C%5C%22search_action%5C%22%3A%5C%22initiative%5C%22%2C%5C%22soVersion%5C%22%3A%5C%222.0%5C%22%2C%5C%22spm%5C%22%3A%5C%22a2141.7631557.itemlist.1%5C%22%2C%5C%22spm-cnt%5C%22%3A%5C%22a2141.7631564%5C%22%2C%5C%22ultron2%5C%22%3A%5C%22true%5C%22%2C%5C%22utdid%5C%22%3A%5C%22Xp5VKmXjfmcDAOnrqFPqao6e%5C%22%7D%22%2C%22itemNumId%22%3A%22616100703705%22%7D HTTP/1.1
+x-features: 27
+x-sgext: 923
+c-launch-info: 0,0,1589216609208,1589213421000,2
+x-page-name: com.taobao.android.detail.wrapper.activity.DetailActivity
+x-location: 116.410344%2C39.916295
+user-agent: MTOPSDK%2F3.1.1.7+%28Android%3B5.1.1%3Bsamsung%3Bsm-j200g%29
+x-ttid: 1568707461534%40taobao_android_9.0.0
+cache-control: no-cache
+a-orange-q: appKey=21646297&appVersion=9.0.0&clientAppIndexVersion=1120200512025500050&clientVersionIndexVersion=0
+x-region-channel: CN
+x-appkey: 21646297
+x-nq: WIFI
+x-mini-wua: HHnB_MfrjTqFGWJj%2FazxTe3rP6WPEybuyZhqZn5wGzm7%2B%2BklQqTDYX%2Fzsf0j%2F6BmQ7Cd7bmkXP99Wy0gilLNEaEbWqgZIHeDAIZOmuG47EGTSreXtJEFOhIkvbh8mwMY5leT%2F
+x-c-traceid: Xp5VKmXjfmcDAOnrqFPqao6e1589216609247006118465
+A-SLIDER-Q: appKey%3D21646297%26ver%3D1589183836902
+x-app-conf-v: 19
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+x-bx-version: 6.4.11
+x-pv: 6.3
+x-t: 1589248044
+x-app-ver: 9.0.0
+f-refer: mtop
+Cookie: enc=32MuV5qVmbadXHPGtuZpYfBxzNIxx%2FKmlgXRIfXeoxg2F%2Bk6JQ1I2PkxwXkRLbe7K%2BHmvKNddidt4U3WlRZlBglyMYauukrTkEtuulT3ULqi7%2Fui0QZmlJXjPyHk0uai
+x-nettype: WIFI
+x-utdid: Xp5VKmXjfmcDAOnrqFPqao6e
+x-umt: 4dRLUydLOpuK2jVyBmrltoniYBSDtxws
+x-devid: AsAC61Lbd0qHtYot2g7Tj5WWx4hsHm5689B3JIDLaDjw
+x-sign: azYBCM002xAAHbiKmnnkOPKiF1eqvbiNuaojGF8Td6TmkPw4ivkLJAAgG9qY6xbW0BOejPC2yU97x3yJ6Lz8ymq6aZxIvbiNuL24jb
+x-page-url: http%3A%2F%2Fitem.taobao.com%2Fitem.htm
+Host: trade-acs.m.taobao.com
+Accept-Encoding: gzip
+Connection: Keep-Alive
+
