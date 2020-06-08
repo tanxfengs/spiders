@@ -20,8 +20,6 @@ class KuwoMusic:
 
     def __new__(cls, *args, **kwargs):
         if cls._instance is None:
-            # 继承父类cls
-            # cls instance 就是生成的实例对象, 如果有就返回这个对象, 没有就生成这个对象
             cls._instance = super().__new__(cls)
         return cls._instance
 
