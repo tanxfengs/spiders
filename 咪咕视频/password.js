@@ -620,4 +620,4 @@ function getResult(pass, id) {
     }
 }
 
-console.log(getResult("arsenalramsey123", 18584858272))
+console.log(getResult("xx", 133333333333))
